@@ -2,4 +2,4 @@ output
 .DS_Store
 .env*
 deps
-tos.ts
+input
